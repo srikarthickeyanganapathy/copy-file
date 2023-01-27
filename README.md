@@ -6,22 +6,22 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-import sys
+Get the file name and location from the user.
 
 ### Step 2:
-initially make count = 0
+Give a new file name to create a copy of a file content.
 
 ### Step 3:
-open the content file using command line arguments.
+Read the file and close the file.
 
 ### Step 4:
-by using for loop name the function as "line"
+Now write the content in the new file.
 
 ### Step 5:
-split the line using .split
+When done print"File copied successfully".
 
 ### Step 6:
-split the line using .split
+End of the program
 
 ## PROGRAM:
 ```python
