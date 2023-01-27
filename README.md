@@ -6,22 +6,21 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Get the file name and location from the user.
+First we need to open the required file form which we need to copy the text.
+
+Again using the with keyword to open the empty file.
 
 ### Step 2:
-Give a new file name to create a copy of a file content.
+Using keyword "with" to open the requied file.
 
 ### Step 3:
-Read the file and close the file.
+Again using the with keyword to open the empty file.
 
 ### Step 4:
-Now write the content in the new file.
+The empty file is open by using 'W' which is used to write only.
 
 ### Step 5:
-When done print"File copied successfully".
-
-### Step 6:
-End of the program
+The four function is used to take each line from the main file.
 
 ## PROGRAM:
 ```python
